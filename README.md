@@ -2,7 +2,7 @@
 ## Run SPT-AKI server on separate machine
 
 
-Hey all, today I'll be teaching you how to run SPT-AKI server on a separate computer. Why would you do this? To save processing power for the game itself and increase performance. I mainly play SPT-AKI on my steam deck, and this was able to provide a significant performance increase. I'm using 3.8.3 version of SPT-AKI.
+Hey all, today I'll be showing you how to run SPT-AKI server on a separate computer. Why would you do this? To save processing power for the game itself and increase performance. I mainly play SPT-AKI on my steam deck, and this was able to provide a significant performance increase. I'm using 3.8.3 version of SPT-AKI.
 
 
 
