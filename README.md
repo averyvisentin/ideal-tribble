@@ -53,7 +53,7 @@ You will need to do this again for the UDP protocol on the Inbound Rules. Repeat
 You can go a step further and port forward this in your router or you can use a VPN tunnel so your friends can play from wherever or you can access your server from whervever. It helps to assign a static IP address to your server PC otherwise you'll have to adjust to http:json or the server:json to whatever the router has decided your local IP to be.
 
 Mods and everything work, you'll have to update them on both machines it might be possible to keep the folders synced using google drive or something similar, I just don't care to do it. (at the moment)
-If you're playing on the steam deck, I'd recommend increasing your VRAM to 2GB in your BIOS, it helps to keep the frametimes stable.
+If you're playing on the steam deck, I'd recommend increasing your VRAM to 2GB in your BIOS, it helps to keep the frametimes stable. I've also got a 16GB swap file setup for my deck, not sure if it makes a difference or not for this game.
 
 
 
